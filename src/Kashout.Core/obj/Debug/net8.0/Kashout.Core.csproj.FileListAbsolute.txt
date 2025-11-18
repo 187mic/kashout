@@ -1,0 +1,12 @@
+/workspaces/kashout/src/Kashout.Core/obj/Debug/net8.0/Kashout.Core.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/kashout/src/Kashout.Core/obj/Debug/net8.0/Kashout.Core.AssemblyInfoInputs.cache
+/workspaces/kashout/src/Kashout.Core/obj/Debug/net8.0/Kashout.Core.AssemblyInfo.cs
+/workspaces/kashout/src/Kashout.Core/obj/Debug/net8.0/Kashout.Core.csproj.CoreCompileInputs.cache
+/workspaces/kashout/src/Kashout.Core/obj/Debug/net8.0/Kashout.Core.sourcelink.json
+/workspaces/kashout/src/Kashout.Core/bin/Debug/net8.0/Kashout.Core.deps.json
+/workspaces/kashout/src/Kashout.Core/bin/Debug/net8.0/Kashout.Core.dll
+/workspaces/kashout/src/Kashout.Core/bin/Debug/net8.0/Kashout.Core.pdb
+/workspaces/kashout/src/Kashout.Core/obj/Debug/net8.0/Kashout.Core.dll
+/workspaces/kashout/src/Kashout.Core/obj/Debug/net8.0/refint/Kashout.Core.dll
+/workspaces/kashout/src/Kashout.Core/obj/Debug/net8.0/Kashout.Core.pdb
+/workspaces/kashout/src/Kashout.Core/obj/Debug/net8.0/ref/Kashout.Core.dll

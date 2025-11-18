@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "7b84Gg3NfXTFtteQ+5Q3Hp65TF5B9NLhVmkfdqrDDAI=",
+  "Source": "Kashout.Api",
+  "BasePath": "_content/Kashout.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
